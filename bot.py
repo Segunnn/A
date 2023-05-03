@@ -6,7 +6,7 @@
 #+++++++++++++++++++++++++++++++++++++++#
 
 ### IT'S MY FIRST DISCORD.PY GIVEAWAY BOT ### 
-### I HAVE A SLASH COMMAND VERSION TO BUT I'M TOO LAZY TO UPLOAD IT HERE ###
+### I HAVE A SLASH COMMAND VERSION TO, BUT I'M TOO LAZY TO UPLOAD IT HERE ###
 #+++++++++++++++++ imports 
 import discord as dick
 from discord.ext import commands as cum
