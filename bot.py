@@ -10,7 +10,8 @@
 #+++++++++++++++++ imports 
 import discord as dick
 from discord.ext import commands as cum
-import time, random
+import random
+from time import sleep
 
 #+++++++++++++++++ i'm too lazy to create config file 
 prefix = 'prefix'
@@ -61,7 +62,7 @@ async def fuf(ctx, time_to_wait: int, *, prize: str):
     roll_author = ctx.message.author
 
     # Zzzzzzzzzzz...
-    time.sleep(time_to_wait)
+    sleep(time_to_wait)
 
     # It's needed for button response too
     global guildf
